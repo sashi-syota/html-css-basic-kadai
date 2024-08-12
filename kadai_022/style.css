@@ -15,7 +15,7 @@ a:visited {
   color: rgb(244,79,79);
 }
 a:hover {
-  color: rgb(245,278,168);
+  color: rgb(193,234,251);
 }
 
 header {
@@ -38,8 +38,8 @@ main {
 .contents {
   border: 3px solid rgb(238,204,204);
   flex-basis: 25%;
-  margin: 10px 15px 10px 15px;
-  padding: 20px 0 20px 0;
+  padding: 10px 15px 10px 15px;
+  margin: 20px 0 20px 0;
   text-align: center;
 }
 h2 {
